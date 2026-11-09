@@ -29,6 +29,7 @@ open-source, affordable, less-known, or visionary robotics[Up# Awesome Robotics 
 - [Magni](https://ubiquityrobotics.com/) - Affordable robotic mobile base with 100kg payload
 - [MuSHR](https://mushr.io/) - Affordable, open-source robotic race car
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and JSON toolbox
 - [Nguyen Vincent's omnidirectional ROS2 robot](https://www.youtube.com/watch?v=5cuvHg3hsvY) - Making an omnidirectional ROS2 robot. No talking, no music. Just building.
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
